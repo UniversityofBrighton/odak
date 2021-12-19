@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connecting Contexts</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 26 Nov 2021 18:06:38 +0000</pubDate>
+    <lastBuildDate>Fri, 26 Nov 2021 18:06:38 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Call for Submissions Announced</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;/2020/call-for-submissions/&quot;&gt;Call for Submissions for EGSR 2020&lt;/a&gt; is now live.&lt;/p&gt;
+
+&lt;p&gt;We are looking for Full and Short Paper submissions, as well as Demos and Industry Talks.&lt;/p&gt;
+
+&lt;p&gt;Please consider submitting your work.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Sep 2019 00:00:00 +0100</pubDate>
+        <link>/news/call-for-papers/</link>
+        <guid isPermaLink="true">/news/call-for-papers/</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+  </channel>
+</rss>
