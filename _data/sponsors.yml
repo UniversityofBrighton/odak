@@ -1,5 +1,7 @@
 2022:
-  - name:https://www.brighton.ac.uk/csius/index.aspx
+
+  - name: CSIUS
+    url: https://www.brighton.ac.uk/csius/index.aspx
     image: img/2022/sponsors/UoB-CSIUS.png
     image2: img/2020/sponsors/UoB-CSIUS.png
     level: gold
