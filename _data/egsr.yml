@@ -1,0 +1,15 @@
+current-year: 2022
+
+2022:
+    title: "<b>International Symposium on Open Data and Knowledge on a Post-pandemic Era</b>"
+    date: "30 June - 1 July 2022"
+    location: "Brighton, UK"
+    logo: "img/2022/odaklogo.svg"
+    #EGSR-logo2020.png
+
+2020:
+    title: "The 31<sup>st</sup> <b>Eurographics Symposium on Rendering</b>"
+    date: "29 June - 3 July 2020"
+    location: "London, UK"
+    logo: "img/2020/logo-pure-outlines.svg"
+    #EGSR-logo2020.png
