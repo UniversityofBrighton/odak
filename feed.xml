@@ -3,10 +3,10 @@
   <channel>
     <title>Open Data and Knowledge</title>
     <description></description>
-    <link>resources/</link>
-    <atom:link href="resources/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Dec 2021 20:22:04 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Dec 2021 20:22:04 +0000</lastBuildDate>
+    <link>https://universityofbrighton.github.io/odak/</link>
+    <atom:link href="https://universityofbrighton.github.io/odak/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 20 Dec 2021 20:33:16 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Dec 2021 20:33:16 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;Please consider submitting your work.&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Sep 2019 00:00:00 +0100</pubDate>
-        <link>resources/news/call-for-papers/</link>
-        <guid isPermaLink="true">resources/news/call-for-papers/</guid>
+        <link>https://universityofbrighton.github.io/odak/news/call-for-papers/</link>
+        <guid isPermaLink="true">https://universityofbrighton.github.io/odak/news/call-for-papers/</guid>
         
         
         <category>news</category>
