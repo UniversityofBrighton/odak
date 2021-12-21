@@ -6,7 +6,23 @@ title: Committee
 year: 2022
 ---
 
-<div class="col-12 col-sm-12 col-lg-12">
+## Programme Chair
+- [Dr. Andrew Fish, Centre for Secure, Intelligent and Usable Systems, University of Brighton](https://research.brighton.ac.uk/en/persons/andrew-fish)
+- [Maria Angela Pellegrino, University of Salerno]()
+
+## Industry Chair
+[Dr. Michalis Pavlidis, Centre for Secure, Intelligent and Usable Systems, University of Brighton](https://research.brighton.ac.uk/en/persons/michalis-pavlidis)
+
+## Local Chair
+[Dr. Almas Baimagambetov, Centre for Secure, Intelligent and Usable Systems, University of Brighton](https://research.brighton.ac.uk/en/persons/almas-baimagambetov)
+
+## Conference Chair
+[Dr. Karina Rodriguez, Centre for Secure, Intelligent and Usable Systems, University of Brighton](https://research.brighton.ac.uk/en/persons/karina-rodriguez-echavarria)
+
+## International Program Committee (IPC)
+TBC
+
+<!-- <div class="col-12 col-sm-12 col-lg-12">
 
 <div class="col-4 col-sm-6 col-lg-4">
     <div class="panel panel-default">
@@ -199,4 +215,4 @@ year: 2022
 
 
     </div>
-</div>
+</div> -->
