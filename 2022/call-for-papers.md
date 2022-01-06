@@ -30,11 +30,13 @@ These contributions are solicited (but not limited to) in the following topics:
 - Interoperability and semantic web
 - Large scale digitisation of analogue data, both 2D and 3D. 
 - FAIR technologies, including standards and ontologies  
+- Data quality including quality of data content and data format
 - Data analytics, including artificial intelligence, of aggregated large-scale datasets
 - Visualisation (inc. immersive environments) of large-scale datasets
 - Human-computer interaction with open data and knowledge
 - Business aspects and sustainability of open data
 - Applications of open data and knowledge in Health, Public Sector, Education and Cultural Heritage
+
 
 These contributions will be published in Electronic Workshops in Computing (eWiC) (TBC).
 
@@ -49,3 +51,10 @@ We welcome expressions of interest to organise or contribute a talk to panel ses
 6. Any other cross-cutting topic
 
 If you are interested in contributing to these panels, please send a short abstract (max 500 words) with the topic contribution and speakers. We plan to produce a summary of these panel sessions to accompany a publication for wider dissemination of these topics.
+
+### Important Dates
+Abstract Deadline: Mar 18, 2022
+Submission Deadline: Mar 25, 2022
+Notification Due: Apr 15, 2022 
+Final Version Due: Apr 25, 2022
+Event dates: 30 June - 1 July
