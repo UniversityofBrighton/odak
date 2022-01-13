@@ -16,7 +16,7 @@ We seek different types of contributions:
 3. Posters: visual communication on topics of interest to be displayed at the event in an open area, together with an associated report (maximum 2 pages) describing the topic, with explicitly stated key points, a textual description introducing the poster and the described project and a textual explanation of graphical diagrams or images reported in the poster. 
 
 Both academia and industry contributions are welcome. 
-Contributions should follow the template from the [Electronic Workshops in Computing (eWiC) series](https://www.bcs.org/about-us/learned-publishing/electronic-workshops-in-computing-ewic/)
+Contributions should follow the template from the [Electronic Workshops in Computing (eWiC) series](https://www.bcs.org/about-us/learned-publishing/electronic-workshops-in-computing-ewic/).
 
 Reviewers will take into consideration:
 - Clarity of presentation
@@ -39,7 +39,7 @@ These contributions are solicited (but not limited to) in the following topics:
 - Applications of open data and knowledge in Health, Public Sector, Education and Cultural Heritage
 
 
-These contributions will be published in Electronic Workshops in Computing (eWiC) (TBC).
+These contributions will be published in the [Electronic Workshops in Computing (eWiC) series](https://www.bcs.org/about-us/learned-publishing/electronic-workshops-in-computing-ewic/).
 
 ### Panel Sessions 
 We welcome expressions of interest to organise or contribute a talk to panel sessions exploring cross-cutting areas of interest, including but not limited to the following: 
