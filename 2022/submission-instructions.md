@@ -15,12 +15,17 @@ Please submit your contribution through the EasyChair site: [https://easychair.o
 
 #### Publication Templates
 [Paper preparation information (PDF)](https://www.bcs.org/media/4864/ewic-paper-preparation.pdf)
+
 [Paper template (PDF)](https://www.bcs.org/media/4865/ewic-paper-template.pdf)
+
 [Paper template (Microsoft Word 2000)](https://www.bcs.org/media/4866/ewic-paper-template.dot)
+
 [Paper template (Microsoft Word - Mac (for Mac users only))](https://www.bcs.org/media/4867/ewic-paper-template-mac.dot)
 
 [Latex template instructions (PDF)](https://www.bcs.org/media/4868/ewic-latex-template.pdf)
+
 [Latex Class File (CLS)](https://www.bcs.org/media/4869/ewic-latex.cls)
+
 [Latex Tex File (TEX)](https://www.bcs.org/media/4870/ewic-latex.tex)
 
 
