@@ -6,4 +6,4 @@ title: Keynote Speaker
 year: 2022
 ---
 
-We are pleased to announce [Vittorio Scarano](https://docenti.unisa.it/001717/en/home) as our first [Keynote Speaker]({{site.baseurl}}/2022/keynote/).
+We are pleased to announce [Vittorio Scarano](https://docenti.unisa.it/001717/en/home) as our first [Keynote Speaker]({{site.baseurl}}/keynote/).
