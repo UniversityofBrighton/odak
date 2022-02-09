@@ -20,7 +20,14 @@ year: 2022
 [Dr. Karina Rodriguez](https://research.brighton.ac.uk/en/persons/karina-rodriguez-echavarria), Centre for Secure, Intelligent and Usable Systems, University of Brighton
 
 ## International Program Committee (IPC)
-TBC
+- Adamantios Koumpis, RWTH Aachen University, Germany
+- Alessandro Mosca, Free University of Bozen-Bolzano, Italy
+- Delfina Malandrino, Dipartimento di Informatica ed - Applicazioni, Università di Salerno, Italy
+- Diego Calvanese, Free University of Bozen-Bolzano, Italy
+- Giancarlo Guizzardi, Ontology and Conceptual Modeling Research Group (NEMO)/Federal University of Espirito Santo (UFES), Brazil
+- Maurizio Napolitano, Bruno Kessler Foundation, Italy
+- Roberto Confalonieri, Free University of Bozen-Bolzano, Italy
+- Tania Di Mascio, DISIM, University of L'AquilaU, Italy
 
 <!-- <div class="col-12 col-sm-12 col-lg-12">
 
