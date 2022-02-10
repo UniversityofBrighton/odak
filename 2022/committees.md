@@ -9,8 +9,8 @@ year: 2022
 [Karina Rodriguez](https://research.brighton.ac.uk/en/persons/karina-rodriguez-echavarria), Centre for Secure, Intelligent and Usable Systems, University of Brighton
 
 ## Programme Chair
-- [Andrew Fish, Centre for Secure](https://research.brighton.ac.uk/en/persons/andrew-fish), Intelligent and Usable Systems, University of Brighton
-- Maria Angela Pellegrino, University of Salerno
+[Andrew Fish, Centre for Secure](https://research.brighton.ac.uk/en/persons/andrew-fish), Intelligent and Usable Systems, University of Brighton
+Maria Angela Pellegrino, University of Salerno
 
 ## Industry Chair
 [Michalis Pavlidis](https://research.brighton.ac.uk/en/persons/michalis-pavlidis), Centre for Secure, Intelligent and Usable Systems, University of Brighton
