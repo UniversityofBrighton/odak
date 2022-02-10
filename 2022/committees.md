@@ -5,29 +5,30 @@ layout: egsr-default
 title: Committees
 year: 2022
 ---
+## Conference General Chair
+[Karina Rodriguez](https://research.brighton.ac.uk/en/persons/karina-rodriguez-echavarria), Centre for Secure, Intelligent and Usable Systems, University of Brighton
 
-### Programme Chair
-- [Dr. Andrew Fish, Centre for Secure](https://research.brighton.ac.uk/en/persons/andrew-fish), Intelligent and Usable Systems, University of Brighton
+## Programme Chair
+- [Andrew Fish, Centre for Secure](https://research.brighton.ac.uk/en/persons/andrew-fish), Intelligent and Usable Systems, University of Brighton
 - Maria Angela Pellegrino, University of Salerno
 
 ## Industry Chair
-[Dr. Michalis Pavlidis](https://research.brighton.ac.uk/en/persons/michalis-pavlidis), Centre for Secure, Intelligent and Usable Systems, University of Brighton
+[Michalis Pavlidis](https://research.brighton.ac.uk/en/persons/michalis-pavlidis), Centre for Secure, Intelligent and Usable Systems, University of Brighton
 
 ## Local Chair
-[Dr. Almas Baimagambetov](https://research.brighton.ac.uk/en/persons/almas-baimagambetov), Centre for Secure, Intelligent and Usable Systems, University of Brighton
+[Almas Baimagambetov](https://research.brighton.ac.uk/en/persons/almas-baimagambetov), Centre for Secure, Intelligent and Usable Systems, University of Brighton
 
-## Conference Chair
-[Dr. Karina Rodriguez](https://research.brighton.ac.uk/en/persons/karina-rodriguez-echavarria), Centre for Secure, Intelligent and Usable Systems, University of Brighton
 
 ## International Program Committee (IPC)
-- Adamantios Koumpis, RWTH Aachen University, Germany
-- Alessandro Mosca, Free University of Bozen-Bolzano, Italy
-- Delfina Malandrino, Dipartimento di Informatica ed - Applicazioni, Università di Salerno, Italy
-- Diego Calvanese, Free University of Bozen-Bolzano, Italy
-- Giancarlo Guizzardi, Ontology and Conceptual Modeling Research Group (NEMO)/Federal University of Espirito Santo (UFES), Brazil
-- Maurizio Napolitano, Bruno Kessler Foundation, Italy
-- Roberto Confalonieri, Free University of Bozen-Bolzano, Italy
-- Tania Di Mascio, DISIM, University of L'AquilaU, Italy
+Asla Medeiros Sa, Fundação Getulio Vargas, Brazil 
+Adamantios Koumpis, RWTH Aachen University, Germany
+Alessandro Mosca, Free University of Bozen-Bolzano, Italy
+Delfina Malandrino, Dipartimento di Informatica ed - Applicazioni, Università di Salerno, Italy
+Diego Calvanese, Free University of Bozen-Bolzano, Italy
+Giancarlo Guizzardi, Ontology and Conceptual Modeling Research Group (NEMO)/Federal University of Espirito Santo (UFES), Brazil
+Maurizio Napolitano, Bruno Kessler Foundation, Italy
+Roberto Confalonieri, Free University of Bozen-Bolzano, Italy
+Tania Di Mascio, DISIM, University of L'AquilaU, Italy
 
 <!-- <div class="col-12 col-sm-12 col-lg-12">
 
