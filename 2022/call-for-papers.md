@@ -11,9 +11,9 @@ year: 2022
 We seek different types of contributions:
 
 ### Research Articles
-1. Full Papers: innovative research, in any of the topics below (maximum 8 pages), with  explicit reporting of evidence of results. 
-2. Case Studies: update of ongoing projects, in any of the topics below (maximum 5 pages), including national or international multidisciplinary projects.
-3. Posters: visual communication on topics of interest to be displayed at the event in an open area, together with an associated report (maximum 2 pages) describing the topic, with explicitly stated key points, a textual description introducing the poster and the described project and a textual explanation of graphical diagrams or images reported in the poster. 
+1. Full Papers: innovative research, in any of the topics below (maximum 8 pages, including references), with  explicit reporting of evidence of results. 
+2. Case Studies: update of ongoing projects, in any of the topics below (maximum 5 pages, including references), including national or international multidisciplinary projects.
+3. Posters: visual communication on topics of interest to be displayed at the event in an open area, together with an associated report (maximum 2 pages, including references) describing the topic, with explicitly stated key points, a textual description introducing the poster and the described project and a textual explanation of graphical diagrams or images reported in the poster. 
 
 Both academia and industry contributions are welcome. 
 Contributions should follow the template from the [Electronic Workshops in Computing (eWiC) series](https://www.bcs.org/about-us/learned-publishing/electronic-workshops-in-computing-ewic/).
