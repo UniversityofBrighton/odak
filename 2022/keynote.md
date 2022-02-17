@@ -35,7 +35,7 @@ Acknowledgments: Most part of the work was supported by the grant of EU Horizon 
 
 
 <h1 align="center" style="color:#64548C;"> Panel Speakers </h1>
-Our panel sessions will include various speakers from various organisations producing, managing and using Open Data in various domains.
+Our panel sessions will include various speakers from various organisations producing, managing and using Open Data in various domains. Speakers will include the following:
 
 <div class="gallery">
   <a target="_blank" href="https://wikimedia.org.uk/wiki/User:Richard_Nevell_(WMUK)">
