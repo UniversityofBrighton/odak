@@ -7,6 +7,11 @@
     level: gold
     description: Research Centre at UoB
 
+  - name: School of Architecture, Technology and Engineering
+    url: https://www.brighton.ac.uk/csius/index.aspx
+    image: img/2022/sponsors/schoollogo.png
+    level: gold
+    description: School at UoB
 
 2020:
 - name: Activision

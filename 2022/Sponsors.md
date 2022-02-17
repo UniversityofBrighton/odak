@@ -11,7 +11,7 @@ year: 2022
     {% assign year = site.data.egsr.current-year %}
 {% endif %}
 We thank all our Sponsors very much for their support to the Computer Graphics community.
-<h1 style="color:#D4AF37">Gold</h1>
+<!-- <h1 style="color:#D4AF37">Gold</h1> -->
 <div class="row-xs-12 sponsors" >
 	{% for sponsor in site.data.sponsors[year] %}
 		{% if sponsor.level contains 'gold' %}
@@ -24,7 +24,7 @@ We thank all our Sponsors very much for their support to the Computer Graphics c
 </div>
 <div class="row-xs-12 row-sm-6 line"></div>
 
-<h1 style="color:#C0C0C0">Silver</h1>
+<!-- <h1 style="color:#C0C0C0">Silver</h1> -->
 <div class="row-xs-12 sponsors" >
 	{% for sponsor in site.data.sponsors[year] %}
 		{% if sponsor.level contains 'silver' %}

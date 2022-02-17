@@ -359,3 +359,25 @@ div.progress-bar-none {
 .open_abstract:after {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
+div.gallery {
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 250px;
+  height: 300px;
+  text-align: center;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}

@@ -2,10 +2,12 @@
 permalink: /keynote/
 redirect_from: "/2022/keynote"
 layout: egsr-default
-title: Keynote Speakers
+title: Invited Speakers
 year: 2022
 ---
 
+<h1 align="center" style="color:#64548C;"> Keynote Speakers </h1>
+Our Keynote Speakers will present the latest research on Open Data and related applications.
 
 ## Vittorio Scarano
 
@@ -19,7 +21,7 @@ He coordinated the European funded research H2020 project ROUTE-TO-PA "Raising O
 He likes family, doing research and teaching, in this order.
 
 
-### Title: Co-creation of Open Data: Open Data of the citizens, by the citizens, for the citizens!
+<!-- ### Title: Co-creation of Open Data: Open Data of the citizens, by the citizens, for the citizens!
  
 Open data is data that is freely available to everyone to use and republish as they wish, without any kind of restrictions, be it copyright, patents or any other mechanisms of control. It is recently become a very important innovation for the Public Administration and citizens in order to improve the transparency and the awareness of the relationship government-citizens.
 
@@ -29,6 +31,21 @@ The main objective of the project was to improve the engagement of citizens by m
 
 We will illustrate the guidelines of the project, the Social Platform for Open Data (SPOD) created by the project and several examples of real communities that are using the outcomes of the project, even 3 years after the end of the project. In particular we will describe the experience of HETOR (www.hetor.it) where communities are collectively creating knowledge (in the form of open datasets) about the local cultural heritage, collecting materials, oral traditions, and recollections of their local history. Finally we will explore how, by using Linked Open Data, it is possible to simply create a Virtual Exhibition from personalized requirements.
 
-Acknowledgments: Most part of the work was supported by the grant of EU Horizon 2020 project ROUTE-TO-PA. We thank all the researchers of the ROUTE-TO-PA project for very interesting and useful discussions. We also thank all the participants of the project and all the citizens and organizations that collaborated in the use cases.
+Acknowledgments: Most part of the work was supported by the grant of EU Horizon 2020 project ROUTE-TO-PA. We thank all the researchers of the ROUTE-TO-PA project for very interesting and useful discussions. We also thank all the participants of the project and all the citizens and organizations that collaborated in the use cases. -->
 
 
+<h1 align="center" style="color:#64548C;"> Panel Speakers </h1>
+Our panel sessions will include various speakers from various organisations producing, managing and using Open Data in various domains.
+
+<div class="gallery">
+  <a target="_blank" href="https://wikimedia.org.uk/wiki/User:Richard_Nevell_(WMUK)">
+    <img src="../img/2022/richard.jpg" alt="RichardNevell">
+  </a>
+  <div class="desc">Richard Nevell, Wikimedia UK</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="https://openuk.uk/profiles/jason-evans/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Jason_Evans.jpg" alt="Jason Evans">
+  </a>
+  <div class="desc">Jason Evans, The National Library of Wales</div>
+</div>
