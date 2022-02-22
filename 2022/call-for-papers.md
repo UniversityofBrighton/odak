@@ -30,13 +30,14 @@ These contributions are solicited (but not limited to) in the following topics:
 - Secure and privacy of open data and knowledge
 - Interoperability and semantic web
 - Large scale digitisation of analogue data, both 2D and 3D. 
-- FAIR technologies, including standards and ontologies  
+- Technologies for linked data complaint with the FAIR principles  
 - Data quality including quality of data content and data format
 - Data analytics, including artificial intelligence, of aggregated large-scale datasets
 - Visualisation (inc. immersive environments) of large-scale datasets
 - Human-computer interaction with open data and knowledge
 - Business aspects and sustainability of open data
 - Applications of open data and knowledge in Health, Public Sector, Education and Cultural Heritage
+- Open Science best practices and Reproducibility of research with open datasets
 
 
 These contributions will be published in the [Electronic Workshops in Computing (eWiC) series](https://www.bcs.org/about-us/learned-publishing/electronic-workshops-in-computing-ewic/).
