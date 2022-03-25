@@ -59,8 +59,8 @@ Abstract Deadline: Mar 18, 2022
 
 Submission Deadline: ~~Mar 25, 2022~~ <span style="color:red">Extended submission deadline: April 7th, 2022</span>
 
-Notification Due: Apr 15, 2022 
+Notification Due: ~~Apr 15, 2022~~ <span style="color:red">Extended notification due: Apr 29, 2022</span>
 
-Final Version Due: Apr 25, 2022
+Final Version Due: ~~Apr 25, 2022~~ <span style="color:red">Extended version due: May 11th, 2022</span>
 
 Event dates: 30 June - 1 July
