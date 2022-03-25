@@ -50,7 +50,7 @@ We thank all our Sponsors very much for their support to the Computer Graphics c
 </div>
 <!--<div class="row-xs-12 row-sm-6 line"></div>
 
-<h1 style="color:#cd7f32">Bronze</h1>
+<!-- <h1 style="color:#cd7f32">Bronze</h1> -->
 <div class="row-xs-12 sponsors" >
 	{% for sponsor in site.data.sponsors[year] %}
 		{% if sponsor.level contains 'bronze' %}

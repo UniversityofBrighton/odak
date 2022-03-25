@@ -57,7 +57,7 @@ If you are interested in contributing to these panels, please send a short abstr
 ### Important Dates
 Abstract Deadline: Mar 18, 2022
 
-Submission Deadline: Mar 25, 2022
+Submission Deadline: ~~Mar 25, 2022~~ <span style="color:red">Extended submission deadline: April 7th, 2022</span>
 
 Notification Due: Apr 15, 2022 
 
