@@ -31,3 +31,6 @@ Please submit your contribution through the EasyChair site: [https://easychair.o
 
 ### Panel Sessions 
 To register interest to contribute a talk or seminar, please send a short abstract (max 500 words) with the topic contribution and information about the speaker(s) to [csius@brighton.ac.uk](mailto:csius@brighton.ac.uk?subject=ODAK%20Seminar%20contribution)
+
+### Software Projects
+To propose a talk, please send a short abstract (max 150 words) detailing how the software addresses a problem in an novel / effective manner to [csius@brighton.ac.uk](mailto:csius@brighton.ac.uk?subject=ODAK%20Seminar%20contribution).

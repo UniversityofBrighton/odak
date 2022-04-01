@@ -29,7 +29,8 @@ We encourage the publication of datasets and source code in public repositories,
 These contributions are solicited (but not limited to) in the following topics:
 - Secure and privacy of open data and knowledge
 - Interoperability and semantic web
-- Large scale digitisation of analogue data, both 2D and 3D. 
+- Open Source solutions for creating and accessing data and knowledge
+- Large scale digitisation of analogue data, both 2D and 3D
 - Technologies for linked data complaint with the FAIR principles  
 - Data quality including quality of data content and data format
 - Data analytics, including artificial intelligence, of aggregated large-scale datasets
@@ -54,10 +55,15 @@ We welcome expressions of interest to organise or contribute a talk to panel ses
 
 If you are interested in contributing to these panels, please send a short abstract (max 500 words) with the topic contribution and speakers. We plan to produce a summary of these panel sessions to accompany a publication for wider dissemination of these topics.
 
+### Software Projects
+We welcome talks about relevant software projects detailing how the software addresses a problem in an novel and effective manner. In particular, we are interested in insights and new modalities for co-development, as well as sharing knowledge and expertise across teams of developers distributed across the world.
+
 ### Important Dates
 Abstract Deadline: Mar 18, 2022
 
 Submission Deadline: ~~Mar 25, 2022~~ <span style="color:red">Extended submission deadline: April 7th, 2022</span>
+
+Submission Deadline (panel and software contributions: May 13, 2022
 
 Notification Due: ~~Apr 15, 2022~~ <span style="color:red">Extended notification due: Apr 29, 2022</span>
 
