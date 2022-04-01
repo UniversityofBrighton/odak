@@ -67,6 +67,8 @@ Submission Deadline (panel and software contributions: May 13, 2022
 
 Notification Due: ~~Apr 15, 2022~~ <span style="color:red">Extended notification due: Apr 29, 2022</span>
 
+Notification Due (panel and software contributions: May 27, 2022
+
 Final Version Due: ~~Apr 25, 2022~~ <span style="color:red">Extended version due: May 11th, 2022</span>
 
 Event dates: 30 June - 1 July
