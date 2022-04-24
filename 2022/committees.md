@@ -35,9 +35,12 @@ Giancarlo Guizzardi, Ontology and Conceptual Modeling Research Group (NEMO)/Fede
 
 Maurizio Napolitano, Bruno Kessler Foundation, Italy
 
+Mauro Dragoni, Fondazione Bruno Kessler – FBK-IRT, Italy 
+
 Roberto Confalonieri, Free University of Bozen-Bolzano, Italy
 
 Tania Di Mascio, DISIM, University of L'AquilaU, Italy
+
 
 <!-- <div class="col-12 col-sm-12 col-lg-12">
 
