@@ -1,6 +1,6 @@
 ---
-permalink: /
-redirect_from: "program"
+permalink: /program/
+redirect_from: "/2022/program"
 layout: egsr-default
 title: Program
 year: 2022
