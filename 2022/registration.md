@@ -23,15 +23,20 @@ The registration fees are as follows:
   </tr>
   <tr style="border: 1px solid black;">
     <td><b>Delegate Rate</b></td>
-    <td>This rate entitles a delegate to attend the full event including talks, panel sessions, keynotes and training. It also includes lunch and coffee breaks on both days.</td>
+    <td>This rate entitles a delegate to attend the full event including talks, panel sessions, keynotes and training. <br/>
+    It also includes lunch and coffee breaks on both days.</td>
     <td>£70</td>
   </tr>
   <tr style="border: 1px solid black;">
     <td><b>Student Rate</b></td>
-    <td>This rate entitles a student delegate to attend the full event including talks, panel sessions, keynotes and training. It also includes lunch and coffee breaks both days. Please bring your student card to the event to validate this rate.</td>
+    <td>This rate entitles a student delegate to attend the full event including talks, panel sessions, keynotes and training. 
+    <br/>It also includes lunch and coffee breaks both days. Please bring your student card to the event to validate this rate.</td>
     <td>£40</td>
   </tr>
 </table>
+<br/>
+<hr/>
+
 
 To register, please use the following link:
 
