@@ -24,11 +24,14 @@ year: 2022
 <script src="../scripts/moment.min.js"></script>
 <script src="../scripts/moment-timezone-with-data.min.js"></script>
 
-<div id='intro'>For EGSR fully virtual edition, each session comes with a youtube live <img src="/img/program/yt.jpg" height="15px" width="25px"> link alongside a Rocket Chat <img src="/img/program/rocket-chat.svg" height="15px" width="25px">  link, offering different possibilities to ask questions and interacts with the other attendees.</div>
-<div>The papers can be found on the EG library. The CGF track is available here: <a href='https://diglib.eg.org/handle/10.2312/2632924'>link</a>, and the symposium track is available here:  <a href='https://diglib.eg.org/handle/10.2312/2632925'>link</a></div>
+<!-- <div id='intro'>For EGSR fully virtual edition, each session comes with a youtube live <img src="/img/program/yt.jpg" height="15px" width="25px"> link alongside a Rocket Chat <img src="/img/program/rocket-chat.svg" height="15px" width="25px">  link, offering different possibilities to ask questions and interacts with the other attendees.</div> -->
+
+<div>This is the draft programme for the event. The papers will be found on the EWIC digital library nearer to the conference, and the programme presents the titles and abstracts.</div>
+<!-- <a href='https://diglib.eg.org/handle/10.2312/2632924'>link</a>, and the symposium track is available here:  <a href='https://diglib.eg.org/handle/10.2312/2632925'>link</a></div> -->
+
 <script>
-	UTCminTime = 12;
-	UTCmaxTime = 18;
+	UTCminTime = 8;
+	UTCmaxTime = 21;
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", "/calendar-data/", false );
     xmlHttp.send( null );
@@ -58,13 +61,13 @@ year: 2022
 	slotDuration: "01:00:01",
 	nowIndicator:true,
 	validRange: {
-    start: '2020-06-29',
-    end: '2020-07-04'
+    start: '2022-06-30',
+    end: '2022-07-1'
 	},
 	views: {
 		timeGridFiveDay: {
 		    type: 'timeGrid',
-		    duration: { days: 5 }
+		    duration: { days: 2 }
 			}
 	  }
 });
@@ -75,7 +78,8 @@ year: 2022
 
 	calendar.setOption("minTime", String(localMinTime) + ":00:00");
 	calendar.setOption("maxTime", String(localMaxTime) + ":00:00");
-	calendar.gotoDate("2020-06-29");
+
+	calendar.gotoDate("2022-06-30");
 
 	calendar.render();
   });
@@ -103,7 +107,7 @@ year: 2022
 {% for mySession in sessions %}
 	<div class="session-content" id="{{mySession.session_id}}" >
 		
-		<h3 style="overflow: auto;"> <a href="{{mySession.permalink}}" {% if mySession.workshopId == 1%}style="color: #602f6b;"{% endif %}><span style="float: left; margin-top: 10px; margin-right: 10px;">{{mySession.title}}</span></a>{% if mySession.youtube_url%}<a href="{{mySession.youtube_url}}" target="_blank"><img src="/img/program/yt.jpg" height="25px" width="40px" style="float: left;  margin-top: 10px;"></a>{% endif %} {% if mySession.abstract %}<a href="{{mySession.rc_link}}" ><img src="/img/program/rocket-chat.svg" height="25px" width="40px" style="float: left; margin-top: 10px;"></a>{% endif %}<a href="#intro" ><img src="/img/program/back-to-top.jpg" height="40px" width="65px" style="float: right;"></a></h3>
+		<h3 style="overflow: auto;"> <a href="{{mySession.permalink}}" {% if mySession.workshopId == 1%}style="color: #602f6b;"{% endif %}><span style="float: left; margin-top: 10px; margin-right: 10px;">{{mySession.title}}</span></a>{% if mySession.youtube_url%}<a href="{{mySession.youtube_url}}" target="_blank"><img src="/img/program/yt.jpg" height="25px" width="40px" style="float: left;  margin-top: 10px;"></a>{% endif %} {% if mySession.abstract %}<a href="{{mySession.rc_link}}" ></a>{% endif %}<a href="#intro" ><img src="/img/program/back-to-top.jpg" height="40px" width="65px" style="float: right;"></a></h3>
 		<h4 class="time">{{mySession.start}}</h4>
 		<h5>{{mySession.authors}}</h5>
 
