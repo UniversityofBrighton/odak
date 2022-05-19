@@ -13,12 +13,14 @@ The registration fees are as follows:
 <table >
   <tr style="border: 1px solid black;">
     <td width="20%"><b>Day One Delegate Rate</b></td>
-    <td width="60%">This rate entitles a delegate to attend the event on Day 1. It also includes lunch and coffee breaks on this day.</td>
+    <td width="60%">This rate entitles a delegate to attend the event on Day 1. <br/>
+    It also includes lunch and coffee breaks on this day.</td>
     <td width="20%">£40</td>
  </tr>
   <tr style="border: 1px solid black;">
     <td><b>Day Two Delegate Rate</b></td>
-    <td>This rate entitles a delegate to attend the event on Day 2. It also includes lunch and coffee breaks on this day.</td>
+    <td>This rate entitles a delegate to attend the event on Day 2.<br/> 
+    It also includes lunch and coffee breaks on this day.</td>
     <td>£40</td>
   </tr>
   <tr style="border: 1px solid black;">
