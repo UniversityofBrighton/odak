@@ -33,7 +33,7 @@ year: 2022
 	UTCminTime = 8;
 	UTCmaxTime = 21;
     var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "GET", "odak/calendar-data/", false );
+    xmlHttp.open( "GET", "/odak/calendar-data/", false );
     xmlHttp.send( null );
 	
 	programStr = '\[' + String(String(xmlHttp.responseText).split("<code>")[1]).split("</code>")[0] + ']';
