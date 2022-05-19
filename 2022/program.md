@@ -140,7 +140,7 @@ year: 2022
 		</div>
 					
 		{% if mySession.abstract %}
-			<div style="overflow: auto; margin-bottom:10px;"><div style="float: left; width:30%;"> <img src="odak/{{mySession.picture}}" style="max-width:80%;" ></div><div style="float: left; width:70%;">{{mySession.Bio}}</div></div>
+			<div style="overflow: auto; margin-bottom:10px;"><div style="float: left; width:30%;"> <img src="{{mySession.picture}}" style="max-width:80%;" ></div><div style="float: left; width:70%;">{{mySession.Bio}}</div></div>
 			 <button type="button" class="abstract">Abstract</button>
 			<div class="abstract_content">
 			  <p>{{mySession.abstract}}</p>
