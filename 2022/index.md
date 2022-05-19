@@ -15,7 +15,7 @@ This international symposium, supported by the [University of Brighton](https://
 
 The symposium will allow participants to discuss about the latest research, case studies, and best practises across various disciplines and sectors such as Health, Finance, Public Sector, Education, Media and Culture. Cross-cutting issues will also be explored including interoperability, business models, security and privacy, as well as ethics, and legal aspects of open data and software. 
 
-For the research community and practitioners, the symposium will provide an excellent scientific forum to exchange novel ideas and look ahead to potephotntial directions for the development/deployment of software systems for sustainable development in a post-pandemic era. For end users, the event will provide a unique opportunity to feed into technical developments as well as to identify new techniques and ideas which can be transferred into practice.
+For the research community and practitioners, the symposium will provide an excellent scientific forum to exchange novel ideas and look ahead to potential directions for the development/deployment of software systems for sustainable development in a post-pandemic era. For end users, the event will provide a unique opportunity to feed into technical developments as well as to identify new techniques and ideas which can be transferred into practice.
 
 
 
