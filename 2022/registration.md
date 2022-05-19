@@ -33,5 +33,7 @@ The registration fees are as follows:
   </tr>
 </table>
 
+To register, please use the following link:
+
 [https://shop.brighton.ac.uk/conferences-and-events/school-of-architecture-technology-engineering/events/symposium-on-open-data-and-knowledge-for-a-postpandemic-era](https://shop.brighton.ac.uk/conferences-and-events/school-of-architecture-technology-engineering/events/symposium-on-open-data-and-knowledge-for-a-postpandemic-era){:target="_blank"} 
 
