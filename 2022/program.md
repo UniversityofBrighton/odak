@@ -24,7 +24,7 @@ year: 2022
 <script src="../scripts/moment.min.js"></script>
 <script src="../scripts/moment-timezone-with-data.min.js"></script>
 
-<div id='intro'>For EGSR fully virtual edition, each session comes with a youtube live <img src="/img/program/yt.jpg" height="15px" width="25px"> link alongside a Rocket Chat <img src="/img/program/rocket-chat.svg" height="15px" width="25px">  link, offering different possibilities to ask questions and interacts with the other attendees.</div> 
+<!-- <div id='intro'>For EGSR fully virtual edition, each session comes with a youtube live <img src="/img/program/yt.jpg" height="15px" width="25px"> link alongside a Rocket Chat <img src="/img/program/rocket-chat.svg" height="15px" width="25px">  link, offering different possibilities to ask questions and interacts with the other attendees.</div>  -->
 
 <div>This is the draft programme for the event. The papers will be found on the EWIC digital library nearer to the conference, and the programme presents the titles and abstracts.</div>
 <!-- <a href='https://diglib.eg.org/handle/10.2312/2632924'>link</a>, and the symposium track is available here:  <a href='https://diglib.eg.org/handle/10.2312/2632925'>link</a></div> -->
