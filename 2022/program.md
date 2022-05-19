@@ -33,7 +33,7 @@ year: 2022
 	UTCminTime = 8;
 	UTCmaxTime = 21;
     var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "GET", "/calendar-data/", false );
+    xmlHttp.open( "GET", "odak/calendar-data/", false );
     xmlHttp.send( null );
 	
 	programStr = '\[' + String(String(xmlHttp.responseText).split("<code>")[1]).split("</code>")[0] + ']';
@@ -118,8 +118,8 @@ year: 2022
 
 					<div>
 
-						<h4  style="overflow: auto;"><span style="float: left; margin-top: 10px; margin-right: 10px;">{{talk.title}}</span> {% if talk.rc_link %}<a href="{{talk.rc_link}}" ><img src="/img/program/rocket-chat.svg" height="20px" width="33px" style="float: left; margin-top: 10px;"></a>{% endif %}
-						{% if talk.paper_link %}<a href="{{talk.paper_link}}" ><img src="/img/2020/pdf_icon.png" height="30px" width="24px" style="float: left; margin-top: 5px;"></a>{% endif %}</h4>
+						<h4  style="overflow: auto;"><span style="float: left; margin-top: 10px; margin-right: 10px;">{{talk.title}}</span> {% if talk.rc_link %}<a href="{{talk.rc_link}}" ><img src="/odak/img/program/rocket-chat.svg" height="20px" width="33px" style="float: left; margin-top: 10px;"></a>{% endif %}
+						{% if talk.paper_link %}<a href="{{talk.paper_link}}" ><img src="/odak/img/2020/pdf_icon.png" height="30px" width="24px" style="float: left; margin-top: 5px;"></a>{% endif %}</h4>
 						<h5>{{talk.authors}}</h5>
 						{% if talk.live_only%}<h6 style="color: #C1272D;">The talk will not be available as VOD after the live streaming</h6>{% endif %}
 						{% if talk.industry_track%}<h6>(EGSR Industry Track, the paper is made available by the authors, not on EG DL)</h6>{% endif %}
@@ -140,7 +140,7 @@ year: 2022
 		</div>
 					
 		{% if mySession.abstract %}
-			<div style="overflow: auto; margin-bottom:10px;"><div style="float: left; width:30%;"> <img src="{{mySession.picture}}" style="max-width:80%;" ></div><div style="float: left; width:70%;">{{mySession.Bio}}</div></div>
+			<div style="overflow: auto; margin-bottom:10px;"><div style="float: left; width:30%;"> <img src="odak/{{mySession.picture}}" style="max-width:80%;" ></div><div style="float: left; width:70%;">{{mySession.Bio}}</div></div>
 			 <button type="button" class="abstract">Abstract</button>
 			<div class="abstract_content">
 			  <p>{{mySession.abstract}}</p>
