@@ -1,5 +1,5 @@
 ---
-permalink: /program/
+permalink: /
 redirect_from: "program"
 layout: egsr-default
 title: Program
