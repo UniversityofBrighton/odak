@@ -2,7 +2,7 @@
 permalink: /session/collaborativesession
 redirect_from: "/session/collaborativesession"
 layout: egsr-talks
-title: Improve Understanding of Open Data Infrastructures?, a collaborative activity by ODI
+title: Improving Understanding of Open Data Infrastructures, a collaborative interactive training activity by the Open Data Institute (ODI).
 authors: "Session chair: TBC"
 start: "2022-07-01T12:00:00Z"
 end: "2022-07-01T15:30:00Z"

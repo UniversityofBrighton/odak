@@ -14,7 +14,9 @@ The registration fees are as follows:
   <tr style="border: 1px solid black;">
     <td width="20%"><b>Day One Delegate Rate</b></td>
     <td width="60%">This rate entitles a delegate to attend the event on Day 1. <br/>
-    It also includes lunch and coffee breaks on this day.</td>
+    It also includes lunch and coffee breaks on this day.<br/>
+    The dinner event on the 30th June is available for an additional fee.    
+    </td>
     <td width="20%">£40</td>
  </tr>
   <tr style="border: 1px solid black;">
@@ -25,14 +27,24 @@ The registration fees are as follows:
   </tr>
   <tr style="border: 1px solid black;">
     <td><b>Delegate Rate</b></td>
-    <td>This rate entitles a delegate to attend the full event including talks, panel sessions, keynotes and training. <br/>
-    It also includes lunch and coffee breaks on both days.</td>
+    <td>This rate entitles a delegate to attend the full event including:
+    <ul>
+    <li>Talks, panel sessions, keynotes and training</li>
+    <li>Lunch and coffee breaks </li>
+    <li>Dinner event on the 30th June</li>
+    </ul></td>
     <td>£70</td>
   </tr>
   <tr style="border: 1px solid black;">
     <td><b>Student Rate</b></td>
-    <td>This rate entitles a student delegate to attend the full event including talks, panel sessions, keynotes and training. 
-    <br/>It also includes lunch and coffee breaks both days. Please bring your student card to the event to validate this rate.</td>
+      <td>This rate entitles a student delegate to attend the full event including:
+    <ul>
+    <li>Talks, panel sessions, keynotes and training</li>
+    <li>Lunch and coffee breaks </li>
+    <li>Dinner event on the 30th June</li>
+    </ul>
+    Please bring your student card to the event to validate this rate.
+    </td>
     <td>£40</td>
   </tr>
 </table>
