@@ -1,6 +1,6 @@
 2022:
 - title: "A novel cough audio segmentation framework for COVID-19 detection"
-  authors: "Alice E. Ashby, Julia A. Meister, Goran Soldar, Khuong An Nguyen"
+  authors: "Alice E. Ashby (University of Brighton, UK), Julia A. Meister (University of Brighton, UK), Goran Soldar (University of Brighton, UK), Khuong An Nguyen (University of Brighton, UK)"
   abstract: "Despite its potential, Machine Learning has played little role in the present pandemic, due to the lack of data (i.e., there were not many COVID-19 samples in the early stage). Thus, this paper proposes a novel cough audio segmentation framework that may be applied on top of existing COVID-19 cough datasets to increase the number of samples, as well as filtering out noises and uninformative data. We demonstrate the efficiency of our framework on two popular open datasets."
   session_id: 1
   talk_id: 0
@@ -8,44 +8,59 @@
   # paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14049/v39i4pp001-012.pdf"
 
 - title: "Exploring AI in Healthcare: How the Acceleration of Data Processing can Impact Life Saving Diagnoses"
+  authors: "Jacob Jane (Arizona State University, United States, Ajay Bansal (Arizona State University, United States, Tyler Baron (Arizona State University, United States)"
+  abstract: "Artificial Intelligence (AI) is one of the biggest topics being discussed in the realm of Computer Science and it has made incredible breakthroughs possible in so many different industries. One of the largest issues with utilizing computational resources in the health industry historically is centered around the quantity of data, the specificity of conditions for accurate results, and the general risks associated with being incorrect in an analysis. Although these all have been major issues in the past, the application of artificial intelligence has opened up an entirely different realm of possibilities because accessing massive amounts of patient data, is essential for generating an extremely accurate model in machine learning (ML). This paper presents an analysis of tools and algorithm design techniques used in recent times to accelerate data processing in the realm of healthcare, but one of the most important discoveries is that the standardization of conditioned data being fed into the models is almost more important than the algorithms or tools being used combined."
   session_id: 1
   talk_id: 1
 
 - title: "On the gap between Theory and Practice in Privacy"
+  authors: "Amedeo Roberto Esposito (EPFL, Switzerland)"
+  abstract: "More and more information is being rendered publicly available through open data. Consequently, the need for private mechanisms is growing. The issue of the privacy-accuracy trade-off is more prominent than ever: keeping the information private and secure can seriously hamper the performance of queries of interest. Having perfectly secure open data that no one can interrogate is a paradox against the principles upon which open data themselves were founded. But how can one test said accuracy and performance? Much like in Machine Learning, data-sets for benchmarking are becoming necessary. The best one can do without them is theoretically compare private mechanisms among themselves, while the implications of these theoretical guarantees in daily practice remain unclear. A preliminary analysis that takes ideas from theory and tries to identify the characteristics of a potential benchmark is presented in this work."
   session_id: 1
   talk_id: 2
 
 - title: "Visually Overviewing Biodiversity Open Data Digital Collections"
+  authors: "Asla Medeiros e Sà (FGV/EMAp, Brazil), Franklin Alves de Oliveira (FGV/EMAp, Brazil), Bruno Schneider (Universitat Konstanz, Germany), Karina Rodriguez Echavarria (University of Brighton, UK), Cristiana Silveira Serejo (Museu Nacional, Brazil)"
+  abstract: "After years of mass digitisation initiatives in Natural History institutions, large biodiversity collections have emerged on the web as open data. Studies on climate change and nature conservation rely heavily on this data to understand the distribution, presence/absence, changes over time, and interaction of species, and community ecology. For the institutions that hold this data, the exploration and verification of the records they produce are critical to support new modes of studying, analysing, and accessing biodiversity information. However, the process of data verification is challenging given the complex relationships between the data. This poses difficulties to the diagnosis of completeness, correctness, and good coverage of the domain. To this day, there is no clear understanding of to what extent existing visualization techniques can systematically support the task of data verification. To support research in this area, this paper reviews the visualisation solutions by focusing on a function-based visual exploration concept that can be integrated into a data verification pipeline for biodiversity datasets. Beyond reviewing the state of the art, we describe a data verification pipeline following such concept for biodiversity collections of the National Museum/Federal University of Rio de Janeiro, Brazil. The pipeline is targeted to domain expert users in supporting strategic decisions on data maintenance, as well as also having the potential to support general users in contextualising the datasets."
   session_id: 4
   talk_id: 3
 
 - title: "30Cappa - The \"Christmas\" decree in kilometres"
+  authors: "Maurizio Napolitano (Fondazione Bruno Kessler, Italy), Andrea Borruso (Associazione OnData, Italy), Salvatore Fiandaca (GFOSS.it, Italy)"
+  abstract: "Following the COVID-19 pandemic emergency, in mid-December 2020 the Italian government introduced travel restrictions during the Christmas holidays. In the implemented policies there was an exception: citizens of a municipality of up to 5,000 citizens can move within an area of 30 kilometres from their respective borders. This policy was used again in the following months to manage travel during the pandemic. 30Cappa is a data visualization created by three civic hackers to give citizens the opportunity to understand this policy (”cappa” is the pronunciation of the letter ”k” in Italian and means ”km”). The project consists of a website where it is possible to receive information on the matter and the cartographic representation of the municipalities that correspond to the exception. The site has reached 350,000 unique visitors in two months and there has been a lot of talk about it in the media. This work highlights how the transformation of a policy into a tangible product such as a map created with the open data available, becomes an effective tool to guide citizens and also to review the policies themselves."
   session_id: 4    
   talk_id: 4
 
 - title: "Smart Museum Tour using Linked Open Data"
+  authors: "Somesh Siddabasappa (Arizona State University, United States), Suyog Somesh Halikar (Arizona State University, United States), Ravikanth Dodda (Arizona State University, United States), Nikhil Hiremath (Arizona State University, United States), Srividya Bansal (Arizona State University, United States)"
+  abstract: "Linked Open Data is structured data on the web that is published and shared from various sources. Related data is connected using web standards such as URIs and RDF. The current linked open data cloud comprises billions of triples. With the availability of various open data sets, a number of innovative and interesting applications are possible. This paper focuses on using data integration techniques and ontology engineering for linked data generation that can be used for the creation of a smart museum tour. The Smithsonian American Art Museum has a vivid collection of American artworks. The data about all artworks and sculptures and their location in the museum is published as Linked Open Data. This paper presents a linked data generation approach for a smart museum tour application that uses the user’s location as input and displays information about all the nearby artworks and additional connected and related information from a linked open data set about an artwork chosen."
   session_id: 4
   talk_id: 5
 
 
-- title: "Open Data Literacy by Remote: Hiccups and Lessons "
+- title: "Open Data Literacy by Remote: Hiccups and Lessons"
+  authors: "Alessia Antelmi (Università degli Studi di Salerno, Italy), Maria Angela Pellegrino (Università degli Studi di Salerno, Italy)"
+  abstract: "Open Data are published to ensure the creation of value and data exploitation, but limited technical skills are a critical barrier. Most users lack the skills required to assess data quality and its fitness to use, awareness of open data sources, and what they can do with the data. To advance the dialogue around methods to increase awareness of Open Data, improve users’ skills to work with them, and deal with the requirement of letting future citizens develop data and information literacy according to 21st-century skills, this article proposes a series of workshops to let Italian high school learners familiarise themselves with effective communication based on Open Data. The article describes an ongoing activity, reporting preliminary results on engagement and learning. We discuss challenges in engaging learners remotely and the promising learning outcomes achieved by overcoming cultural and technical barriers to visualise Open Data. "
   session_id: 6
   talk_id: 6
 
 - title: "Collaborative Open Data in education: COLTRANE experience on cybersecurity"
+  authors: "Jerry Andriessen (Wise & Munro Learning Research, the Netherlands), Steven Furnell (University of Nottingham, UK), Gregor Langner (AIT Austrian Institute of Technology GmbH, Austria), Giuseppina Palmieri (Università degli Studi di Salerno, Italy), Gerald Quirchmayr (Universitat Wien, Austria), Vittorio Scarano (Università degli Studi di Salerno, Italy), Teemu Johannes Tokola (University of Oulu, Finland)"
+  abstract: "In this paper we report on an experiment on Open Data co-creation conducted in the COLTRANE Erasmus+ project, that focusses on cybersecurity education. Students of a Master degree course on Computer Science were asked to collaboratively work on building and understanding open data about cybersecurity threats and risks, presenting interesting insights after a week of work (conducted by remote, by using a collaborative platform). We report here some of the initial results of their experience, and some lessons learned and limitations found in COLTRANE activities."
   session_id: 6
   talk_id: 7
 
 - title: "Keyword extraction and summarization from unstructured text: A case study with open data from legal domain"
+  authors: "Varun Singh (Arizona State University, United States), Srividya Bansal (Arizona State University, United States)"
+  abstract: "Information Extraction (IE) is an important and crucial task in the world of web and open data. IE is achieved using Natural language Processing (NLP). There are various techniques used for extraction of information, however coming up with useful and meaningful information is the most important task. Many search engines rely heavily on IE. This paper focuses on entity extraction of named entities from natural language and converting them into knowledge graph of triples. The goal is to answer two types of queries (i) Keyword search that returns exact information; (ii) Summarization of a keyword in question. A case study using open data from legal domain is presented."
   session_id: 6
   talk_id: 8
 
 - title: "Speeding Date - The Mathematics of Fast Calendar Algorithms"
+  authors: "Cassio Nerio (Millennium Management Investment, UK)"
+  abstract: "This talk, a joint work with Prof. Lorenz Schneider of EM-Lyon, concerns fast calendar algorithms. I start by touching on the fascinating history of the Gregorian calendar, from its Roman origins until it got its current form in the 16th century. This evolution deeply impacts implementations of calendar algorithms in all types of software systems. Then, I progress to the study of Euclidean Affine Functions which provide the mathematical foundations of our algorithms. Specifically, I show some algebraic and numerical results that explain why our algorithms are so suited for modern superscalar CPUs. Along the talk, I present code snippets in C/C++ and x86_64 assembly and also benchmark results showing that our algorithms perform considerably faster than counterparts in Microsoft's .NET framework, OpenJDK, Android phones and other popular open source libraries. Literally billions of devices can benefit from our results. Actually many already are since I have contributed these algorithms to GCC's C++ Standard Library and to the Linux Kernel"
   session_id: 6
   talk_id: 9
-  authors: "Cassio Nerio"
-  abstract: "This talk, a joint work with Prof. Lorenz Schneider of EM-Lyon, concerns fast calendar algorithms. I start by touching on the fascinating history of the Gregorian calendar, from its Roman origins until it got its current form in the 16th century. This evolution deeply impacts implementations of calendar algorithms in all types of software systems. Then, I progress to the study of Euclidean Affine Functions which provide the mathematical foundations of our algorithms. Specifically, I show some algebraic and numerical results that explain why our algorithms are so suited for modern superscalar CPUs. Along the talk, I present code snippets in C/C++ and x86_64 assembly and also benchmark results showing that our algorithms perform considerably faster than counterparts in Microsoft's .NET framework, OpenJDK, Android phones and other popular open source libraries. Literally billions of devices can benefit from our results. Actually many already are since I have contributed these algorithms to GCC's C++ Standard Library and to the Linux Kernel"
-
 
 
 2020:
