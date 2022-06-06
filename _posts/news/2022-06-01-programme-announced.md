@@ -1,7 +1,7 @@
 ---
 layout: egsr-default
 categories: news
-title: Call for Submissions Announced
+title: Programme available
 # excerpt: EGSR 2020 Call for Submissions is live
 year: 2022
 ---
