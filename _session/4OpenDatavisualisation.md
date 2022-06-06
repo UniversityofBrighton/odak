@@ -4,8 +4,8 @@ redirect_from: "/session/opendatavisualisation"
 layout: egsr-talks
 title: Visualisation of Open Data 
 authors: "Session chair: TBC"
-start: "2022-06-30T14:45:00Z"
-end: "2022-06-30T15:50:00Z"
+start: "2022-06-30T14:35:00Z"
+end: "2022-06-30T15:40:00Z"
 session_id: 4
 # youtube_url: "https://youtu.be/QkP5u4yXTQA"
 # rocket_chat_url: "https://rocket.chat/"
