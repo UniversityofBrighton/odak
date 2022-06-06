@@ -13,7 +13,7 @@
   session_id: 1
   talk_id: 1
 
-- title: "On the gap between Theory and Practice in Privacy"
+- title: "Towards a Standard Testing Data Set in Privacy"
   authors: "Amedeo Roberto Esposito (EPFL, Switzerland)"
   abstract: "More and more information is being rendered publicly available through open data. Consequently, the need for private mechanisms is growing. The issue of the privacy-accuracy trade-off is more prominent than ever: keeping the information private and secure can seriously hamper the performance of queries of interest. Having perfectly secure open data that no one can interrogate is a paradox against the principles upon which open data themselves were founded. But how can one test said accuracy and performance? Much like in Machine Learning, data-sets for benchmarking are becoming necessary. The best one can do without them is theoretically compare private mechanisms among themselves, while the implications of these theoretical guarantees in daily practice remain unclear. A preliminary analysis that takes ideas from theory and tries to identify the characteristics of a potential benchmark is presented in this work."
   session_id: 1
