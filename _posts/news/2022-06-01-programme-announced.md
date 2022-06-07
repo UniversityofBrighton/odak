@@ -6,4 +6,4 @@ title: Programme available
 year: 2022
 ---
 
-The [Programme with talks and other events taking place]({{site.baseurl}}/programme/) is now live. Join us at the event by registering at [our registration site.]({{site.baseurl}}/registration/)
+The [Programme with talks and other events taking place]({{site.baseurl}}/program/) is now live. Join us at the event by registering at [our registration site.]({{site.baseurl}}/registration/)

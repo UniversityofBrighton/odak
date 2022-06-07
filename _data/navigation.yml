@@ -13,6 +13,10 @@
   url: registration
 - title: Speakers
   url: keynote
+- title: Speakers
+  url: keynote
+- title: Venue
+  url: venue
 - title: About us
   url: about
 
