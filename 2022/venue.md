@@ -17,13 +17,13 @@ Parking on all university campuses is now pay to park which is monitored by Auto
 ## Finding us
 Address: Cockcroft, Huxley and Watts Buildings, Lewes Road, Moulsecoomb, Brighton, East Sussex, BN2 4GJ
 
-Find [travel information and directions](https://www.brighton.ac.uk/accommodation-and-locations/campuses/moulsecoomb/index.aspx){:target="_blank"})
+Find travel information and directions [here](https://www.brighton.ac.uk/accommodation-and-locations/campuses/moulsecoomb/index.aspx){:target="_blank"}.
 
  
  
 ## Accomodation
 
-There are many accomodation options in Brighton and Hove, for more information, see [VisitBrighton: Brighton's official tourism site](https://www.visitbrighton.com/){:target="_blank"}).
+There are many accomodation options in Brighton and Hove, for more information, see [Brighton's official tourism site](https://www.visitbrighton.com/){:target="_blank"}.
  
 We also have some rooms available at Phoenix halls with a promo code.
 
