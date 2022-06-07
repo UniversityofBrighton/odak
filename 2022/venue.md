@@ -7,6 +7,8 @@ year: 2022
 ---
 
 ## Venue
+![Huxley](https://miro.medium.com/max/1400/1*Zl7jyhkDDD0kzq7p15-XIQ.jpeg){: width="500px"}
+
 The event will take place at the Huxley Building (Moulsecoomb Campus) at the University of Brighton. The Moulsecoomb campus is only two miles from Brighton City Centre with excellent transport links from the city and plenty of free parking on site. 
 
 Car parking is on a first come first served basis and is chargeable.
@@ -22,6 +24,7 @@ Find travel information and directions [here](https://www.brighton.ac.uk/accommo
  
  
 ## Accomodation
+![Brighton](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Brighton_from_the_pier.jpg/1920px-Brighton_from_the_pier.jpg){: width="500px"}
 
 There are many accomodation options in Brighton and Hove, for more information, see [Brighton's official tourism site](https://www.visitbrighton.com/){:target="_blank"}.
  
