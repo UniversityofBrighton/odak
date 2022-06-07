@@ -11,12 +11,10 @@
   url: program
 - title: Registration
   url: registration
-- title: Speakers
-  url: keynote
-- title: Speakers
-  url: keynote
 - title: Venue
   url: venue
+- title: Speakers
+  url: keynote
 - title: About us
   url: about
 
