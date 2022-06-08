@@ -3,7 +3,7 @@ permalink: /session/keynote1
 redirect_from: "session/keynote1"
 layout: egsr-talks
 title: "Keynote: TBC"
-authors: "<b>TBC</b>"
+authors: "<b>Robert Nasarek</b>"
 start: "2022-07-01T10:00:00Z"
 end: "2022-07-01T11:00:00Z"
 session_id: 7

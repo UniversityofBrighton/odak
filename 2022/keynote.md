@@ -21,6 +21,10 @@ He coordinated the European funded research H2020 project ROUTE-TO-PA "Raising O
 He likes family, doing research and teaching, in this order.
 
 
+## Robert Nasarek
+
+<!-- ![Vittorio](https://docenti.unisa.it/uploads/rescue/foto/001717.jpg){: width="350px"} -->
+
 <!-- ### Title: Co-creation of Open Data: Open Data of the citizens, by the citizens, for the citizens!
  
 Open data is data that is freely available to everyone to use and republish as they wish, without any kind of restrictions, be it copyright, patents or any other mechanisms of control. It is recently become a very important innovation for the Public Administration and citizens in order to improve the transparency and the awareness of the relationship government-citizens.
@@ -37,12 +41,12 @@ Acknowledgments: Most part of the work was supported by the grant of EU Horizon 
 <h1 align="center" style="color:#64548C;"> Panel Speakers </h1>
 Our panel sessions will include various speakers from various organisations producing, managing and using Open Data in various domains. Speakers will include the following:
 
-<div class="gallery">
+<!-- <div class="gallery">
   <a target="_blank" href="https://wikimedia.org.uk/wiki/User:Richard_Nevell_(WMUK)">
     <img src="../img/2022/richard.jpg" alt="RichardNevell">
   </a>
   <div class="desc">Richard Nevell, Wikimedia UK</div>
-</div>
+</div> -->
 <div class="gallery">
   <a target="_blank" href="https://openuk.uk/profiles/jason-evans/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Jason_Evans.jpg" alt="Jason Evans">
