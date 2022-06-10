@@ -57,7 +57,7 @@
   talk_id: 8
 
 - title: "Speeding Date - The Mathematics of Fast Calendar Algorithms"
-  authors: "Cassio Nerio (Millennium Management Investment, UK)"
+  authors: "Cassio Neri, Independent Researcher"
   abstract: "This talk, a joint work with Prof. Lorenz Schneider of EM-Lyon, concerns fast calendar algorithms. I start by touching on the fascinating history of the Gregorian calendar, from its Roman origins until it got its current form in the 16th century. This evolution deeply impacts implementations of calendar algorithms in all types of software systems. Then, I progress to the study of Euclidean Affine Functions which provide the mathematical foundations of our algorithms. Specifically, I show some algebraic and numerical results that explain why our algorithms are so suited for modern superscalar CPUs. Along the talk, I present code snippets in C/C++ and x86_64 assembly and also benchmark results showing that our algorithms perform considerably faster than counterparts in Microsoft's .NET framework, OpenJDK, Android phones and other popular open source libraries. Literally billions of devices can benefit from our results. Actually many already are since I have contributed these algorithms to GCC's C++ Standard Library and to the Linux Kernel"
   session_id: 6
   talk_id: 9
