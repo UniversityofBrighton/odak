@@ -15,8 +15,13 @@ color: '#602f6b'
 abstract: "This panel will explore developments, challenges and opportunities for co-developing open data and knowledge, in particular when this involve collaboration with non-technical experts, including members of communities, and other practitioners in disciplines such as humanities, museums and heritage, arts and crafts. The session will bring together researchers and practitioners explore the various workflows, technologies and processes to capture, document, link and provide access to a variety of content which can support various purposes including open research practices, preservation of knowledge and access of data by the wider public. Cross cutting issues, including ethics, copyright and sustainability will also be discussed."
 Bio: "
 Jason Evans, The National Library of Wales
+
 Robert Nasarek,
+
+
 Mike Kelly,
+
+
 Karina Rodriguez,
 "
 picture: ""
