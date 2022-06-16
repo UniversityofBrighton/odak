@@ -2,7 +2,7 @@
 permalink: /session/keynote1
 redirect_from: "session/keynote1"
 layout: egsr-talks
-title: "Keynote: Infrastructures of knowledge: Two perspectives on linked open data in the field of Germany’s cultural heritage."
+title: "Infrastructures of knowledge: Two perspectives on linked open data in the field of Germany’s cultural heritage."
 authors: "<b>Robert Nasarek</b>"
 start: "2022-07-01T10:00:00Z"
 end: "2022-07-01T11:00:00Z"
