@@ -22,6 +22,12 @@ He likes family, doing research and teaching, in this order.
 
 
 ## Robert Nasarek
+<!-- ### Title: Infrastructures of knowledge: Two perspectives on linked open data in the field of Germany’s cultural heritage. -->
+![Robert](https://avatars.githubusercontent.com/u/29227376?v=4){: width="350px"}
+
+The presentation describes the goals, current situation and remaining challenges for producers and users of linked open data in the field of cultural heritage in Germany. Two perspectives will be taken, on the one hand the macroscopic view on the part of the consortium NFDI4Culture, an organizational unit within the German National Research Data Infrastructure founded in October 2020, and on the other hand the mesoscopic view out of the engine room of the Scientific Comunication Infrastructure Software WissKI. Theoretical, technical and governemental solutions and problems in the field of linked open data of cultural heritage are thus presented.
+
+Robert Nasarek is a Research associate (Museum and Cultural Informatics - Germanisches Nationalmuseum Nuremberg). He was an Information scientist (National Academy of Sciences Leopoldina) and is a PhD student at the Martin-Luther-University Halle-Saale.
 
 <!-- ![Vittorio](https://docenti.unisa.it/uploads/rescue/foto/001717.jpg){: width="350px"} -->
 
