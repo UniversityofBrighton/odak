@@ -25,7 +25,7 @@ He likes family, doing research and teaching, in this order.
 <!-- ### Title: Infrastructures of knowledge: Two perspectives on linked open data in the field of Germany’s cultural heritage. -->
 ![Robert](https://avatars.githubusercontent.com/u/29227376?v=4){: width="350px"}
 
-Robert Nasarek is a Research associate (Museum and Cultural Informatics - Germanisches Nationalmuseum Nuremberg). He was an Information scientist (National Academy of Sciences Leopoldina) and is a PhD student at the Martin-Luther-University Halle-Saale.
+[Robert Nasarek](https://www.geschichte.uni-halle.de/mitarbeiter/nasarek/){:target="_blank"} is a Research associate (Museum and Cultural Informatics - Germanisches Nationalmuseum Nuremberg). He was an Information scientist (National Academy of Sciences Leopoldina) and is a PhD student at the Martin-Luther-University Halle-Saale.
 
 <!-- ![Vittorio](https://docenti.unisa.it/uploads/rescue/foto/001717.jpg){: width="350px"} -->
 
