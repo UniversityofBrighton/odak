@@ -6,7 +6,7 @@ title: "From Datasets to Knowledge to Decision-making in e-Gov processes: best p
 authors: "<b>Guiseppe Ferreti</b>"
 start: "2022-07-01T10:00:00Z"
 end: "2022-07-01T11:00:00Z"
-session_id: 7
+session_id: 71
 # youtube_url: "https://youtu.be/lbZBRp6Gn20"
 # rc_link: "https://rc.egsr2020.london/channel/SR_08_keynote"
 year: 2022
