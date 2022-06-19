@@ -1,6 +1,6 @@
 ---
-permalink: /session/keynote1
-redirect_from: "session/keynote1"
+permalink: /session/keynote3
+redirect_from: "session/keynote3"
 layout: egsr-talks
 title: "From Datasets to Knowledge to Decision-making in e-Gov processes: best practices in Public Administrations."
 authors: "<b>Guiseppe Ferreti</b>"

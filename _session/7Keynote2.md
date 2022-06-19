@@ -5,7 +5,7 @@ layout: egsr-talks
 title: "Infrastructures of knowledge: Two perspectives on linked open data in the field of Germany’s cultural heritage."
 authors: "<b>Robert Nasarek</b>"
 start: "2022-06-30T15:20:00Z"
-end: "2022-06-30T16:10:00Z"
+end: "2022-06-30T16:20:00Z"
 session_id: 7
 # youtube_url: "https://youtu.be/lbZBRp6Gn20"
 # rc_link: "https://rc.egsr2020.london/channel/SR_08_keynote"
