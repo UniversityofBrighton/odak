@@ -1,6 +1,6 @@
 ---
-permalink: /session/keynote1
-redirect_from: "session/keynote1"
+permalink: /session/keynote2
+redirect_from: "session/keynote2"
 layout: egsr-talks
 title: "Infrastructures of knowledge: Two perspectives on linked open data in the field of Germany’s cultural heritage."
 authors: "<b>Robert Nasarek</b>"

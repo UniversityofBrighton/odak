@@ -6,5 +6,4 @@ title: New Speakers announched
 year: 2022
 ---
 
-We are pleased to announce Robert Nasarek (Germanisches Nationalmuseum Nuremberg, Germany) and Guiseppe Ferreti (Campania Regional Government, Italy), as speakers at the ODAK event ({{site.baseurl}}/keynote/).
-
+We are pleased to announce Robert Nasarek (Germanisches Nationalmuseum Nuremberg, Germany) and Guiseppe Ferreti (Campania Regional Government, Italy), as speakers at the ODAK event.
