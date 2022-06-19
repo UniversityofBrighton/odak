@@ -6,9 +6,8 @@ title: Invited Speakers
 year: 2022
 ---
 
-<h1 align="center" style="color:#64548C;"> Keynote Speakers </h1>
-Our Keynote Speakers will present the latest research on Open Data and related applications.
-
+<h1 align="center" style="color:#64548C;"> Invited Speakers </h1>
+Our invited speakers will present the latest research on Open Data, and related applications in Cultural Heritage and Public Administration. They complement our technical research presentations by exploring the issues when deploying Open Data with practitioners and citizens across various European countries including UK, Germany and Italy.
 ## Vittorio Scarano
 
 ![Vittorio](https://docenti.unisa.it/uploads/rescue/foto/001717.jpg){: width="350px"}
