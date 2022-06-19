@@ -71,3 +71,9 @@ Our panel sessions will include various speakers from various organisations prod
   </a>
   <div class="desc">Jason Evans, The National Library of Wales</div>
 </div>
+<div class="gallery">
+  <a target="_blank" href="https://www.ucl.ac.uk/seaha-cdt/people/mike-kelly">
+    <img src="https://www.ucl.ac.uk/seaha-cdt/sites/seaha_cdt/files/styles/small_image/public/mike_kelly_800x500.jpg?itok=NTtUsQnZ" alt="Michael Kelly">
+  </a>
+  <div class="desc">Mike Kelly, University of Brighton</div>
+</div>
