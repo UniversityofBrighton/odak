@@ -6,4 +6,4 @@ title: New Speakers announched
 year: 2022
 ---
 
-We are pleased to announce Robert Nasarek (Germanisches Nationalmuseum Nuremberg, Germany) and Guiseppe Ferretti (Campania Regional Government, Italy) as invited speakers.
+We are pleased to announce Robert Nasarek (Germanisches Nationalmuseum Nuremberg, Germany) and Giuseppe Ferretti (Campania Regional Government, Italy) as invited speakers.
