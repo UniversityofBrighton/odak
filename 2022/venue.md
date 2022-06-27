@@ -9,7 +9,7 @@ year: 2022
 ## Venue
 ![Huxley](https://miro.medium.com/max/1400/1*Zl7jyhkDDD0kzq7p15-XIQ.jpeg){: width="500px"}
 
-The event will take place at the Huxley Building (Moulsecoomb Campus) at the University of Brighton. The Moulsecoomb campus is only two miles from Brighton City Centre with excellent transport links from the city and plenty of free parking on site. 
+The event will take place at the lecture theatre in the Huxley Building H300 (Moulsecoomb Campus) at the University of Brighton. The Moulsecoomb campus is only two miles from Brighton City Centre with excellent transport links from the city and plenty of free parking on site. 
 
 Car parking is on a first come first served basis and is chargeable.
 
@@ -17,7 +17,7 @@ Parking on all university campuses is now pay to park which is monitored by Auto
 
  
 ## Finding us
-Address: Cockcroft, Huxley and Watts Buildings, Lewes Road, Moulsecoomb, Brighton, East Sussex, BN2 4GJ
+Address: Huxley 300, Lewes Road, Moulsecoomb, Brighton, East Sussex, BN2 4GJ
 
 Find travel information and directions [here](https://www.brighton.ac.uk/accommodation-and-locations/campuses/moulsecoomb/index.aspx){:target="_blank"}.
 
