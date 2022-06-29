@@ -5,7 +5,7 @@ layout: egsr-talks
 title: Participatory and Community Open Data Initiatives
 authors: "Jason Evans (The National Library of Wales), Robert Nasarek (Germanisches Nationalmuseum Nuremberg), Michael Kelly (University of Brighton)"
 start: "2022-06-30T13:10:00Z"
-end: "2022-06-30T14:00:00Z"
+end: "2022-06-30T13:40:00Z"
 session_id: 3
 # youtube_url: "https://youtu.be/QkP5u4yXTQA"
 # rocket_chat_url: "https://rocket.chat/"
