@@ -40,7 +40,7 @@ We will illustrate the guidelines of the project, the Social Platform for Open D
 
 Acknowledgments: Most part of the work was supported by the grant of EU Horizon 2020 project ROUTE-TO-PA. We thank all the researchers of the ROUTE-TO-PA project for very interesting and useful discussions. We also thank all the participants of the project and all the citizens and organizations that collaborated in the use cases. -->
 
-## Guiseppe Ferreti
+## Giuseppe Ferreti
 <!-- ### Title: Infrastructures of knowledge: Two perspectives on linked open data in the field of Germany’s cultural heritage. -->
 ![Guiseppe](https://www.theinnovationgroup.it/wp-content/uploads/2019/09/Ferretti.jpg){: width="350px"}
 
