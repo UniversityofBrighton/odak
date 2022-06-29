@@ -5,8 +5,8 @@ layout: egsr-talks
 title: "Co-creation of Open Data: Open Data of the citizens, by the citizens, for the citizens!"
 authors: "<b>Vittorio Scarano</b>"
 
-start: "2022-06-30T12:10:00Z"
-end: "2022-06-30T13:10:00Z"
+start: "2022-06-30T12:00:00Z"
+end: "2022-06-30T13:00:00Z"
 session_id: 2
 # youtube_url: "https://youtu.be/lbZBRp6Gn20"
 # rc_link: "https://rc.egsr2020.london/channel/SR_08_keynote"
