@@ -1,7 +1,7 @@
 ---
 layout: egsr-default
 categories: news
-title: New Speakers announched
+title: New Speakers announced
 # excerpt: EGSR 2020 Call for Submissions is live
 year: 2022
 ---
