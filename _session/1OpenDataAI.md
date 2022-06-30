@@ -3,7 +3,7 @@ permalink: /session/opendataAI
 redirect_from: "/session/opendataAI"
 layout: egsr-talks
 title: Open Data and Artificial Intelligence
-authors: "Session chair: TBC"
+authors: "Chair: Karina Rodriguez Echavarria"
 start: "2022-06-30T10:15:00Z"
 end: "2022-06-30T11:10:00Z"
 session_id: 1

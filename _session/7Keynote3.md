@@ -3,7 +3,7 @@ permalink: /session/keynote3
 redirect_from: "session/keynote3"
 layout: egsr-talks
 title: "From Datasets to Knowledge to Decision-making in e-Gov Processes: Best Practices in Public Administrations."
-authors: "<b>Giuseppe Ferretti</b>"
+authors: "<b>Giuseppe Ferretti</b>, Chair: Alessia Antelmi"
 start: "2022-07-01T10:00:00Z"
 end: "2022-07-01T11:00:00Z"
 session_id: 71

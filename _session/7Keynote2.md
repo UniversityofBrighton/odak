@@ -3,7 +3,7 @@ permalink: /session/keynote2
 redirect_from: "session/keynote2"
 layout: egsr-talks
 title: "Infrastructures of knowledge: Two perspectives on linked open data in the field of Germany’s cultural heritage."
-authors: "<b>Robert Nasarek</b>"
+authors: "<b>Robert Nasarek</b>, Chair: Karina Rodriguez Echavarria"
 start: "2022-06-30T15:00:00Z"
 end: "2022-06-30T16:00:00Z"
 session_id: 7

@@ -3,7 +3,7 @@ permalink: /session/opendatavisualisation
 redirect_from: "/session/opendatavisualisation"
 layout: egsr-talks
 title: Visualisation of Open Data 
-authors: "Session chair: TBC"
+authors: "Chair: Vittorio Scarano"
 start: "2022-06-30T13:55:00Z"
 end: "2022-06-30T15:00:00Z"
 session_id: 4

@@ -3,7 +3,7 @@ permalink: /session/keynote1
 redirect_from: "session/keynote1"
 layout: egsr-talks
 title: "Co-creation of Open Data: Open Data of the citizens, by the citizens, for the citizens!"
-authors: "<b>Vittorio Scarano</b>"
+authors: "<b>Vittorio Scarano</b>, Chair: Andrew Fish"
 
 start: "2022-06-30T12:00:00Z"
 end: "2022-06-30T13:00:00Z"

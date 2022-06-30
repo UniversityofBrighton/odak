@@ -3,7 +3,7 @@ permalink: /session/communityledopendata
 redirect_from: "/session/communityledopendata"
 layout: egsr-talks
 title: Participatory and Community Open Data Initiatives
-authors: "Jason Evans (The National Library of Wales), Myrsini Samaroudi (University of Brighton), Michael Kelly (University of Brighton)"
+authors: "Jason Evans (The National Library of Wales), Karina Rodriguez (University of Brighton), Michael Kelly (University of Brighton), Chair: Myrsini Samaroudi"
 start: "2022-06-30T13:00:00Z"
 end: "2022-06-30T13:40:00Z"
 session_id: 3
